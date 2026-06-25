@@ -6,9 +6,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

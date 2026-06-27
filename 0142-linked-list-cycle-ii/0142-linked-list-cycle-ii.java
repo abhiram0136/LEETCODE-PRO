@@ -10,22 +10,38 @@
  * }
  */
 public class Solution {
-    public ListNode detectCycle(ListNode head) {
+    public boolean isPossible(ListNode head){
         ListNode slow=head;
         ListNode fast=head;
-        while(fast!=null &&fast.next!=null){
+        while(fast!=null&&fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
-        if(slow==fast){
-           ListNode ptr=head;
-           while(ptr!=slow){
+            if(slow==fast){
+                return true;
+            }
+        }
+        return false;
+    }
+    public ListNode detectCycle(ListNode head) {
+        if(!isPossible(head)){
+            return null;
+        }
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null&&fast.next!=null){
             slow=slow.next;
-            ptr=ptr.next;
-           }
+            fast=fast.next.next;
+            if(slow==fast){
+                ListNode ptr=head;
+                while(ptr!=slow){
+                slow=slow.next;
+                ptr=ptr.next;
+                }
+                    return slow;
+            }
+        }
 
-        return ptr;
-        }
-        }
-        return null;
+
+     return null;   
     }
 }

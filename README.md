@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table

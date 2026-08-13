@@ -29,15 +29,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |

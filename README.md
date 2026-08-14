@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0739-daily-temperatures) |
@@ -54,13 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/2390-removing-stars-from-a-string) |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0025-reverse-nodes-in-k-group) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhiram0136/LEETCODE-PRO/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
